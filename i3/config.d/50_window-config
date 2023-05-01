@@ -1,0 +1,8 @@
+assign [class="Firefox"]   "$ws1"
+assign [class="Skype"]   "$ws2"
+assign [class="discord"]   "$ws2"
+assign [class="Plexamp"]   "$ws3"
+assign [class="Spotify"]   "$ws3"
+assign [class="Steam"]   "$ws4"
+assign [class="Vmware-view"]   "$ws5"
+assign [class="zoom"]   "$ws5"
