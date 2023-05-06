@@ -4,7 +4,7 @@ i3-wm.workspace.02.name: 2: Chat
 i3-wm.workspace.03.name: 3: Music
 i3-wm.workspace.04.name: 4: Games
 i3-wm.workspace.05.name: 5: Citi
-!regolith.look.path: /usr/share/regolith-look/solarized-dark
 i3-wm.gaps.inner.size: 20
 gnome.terminal.font:	RobotoMono Nerd Font 11
-regolith.look.path: /usr/share/regolith-look/nord
+!regolith.look.path: /usr/share/regolith-look/ayu
+regolith.look.path: /usr/share/regolith-look/catppuccin
